@@ -1,0 +1,10 @@
+{
+  "resource": true,
+  "name": "terraform-provider",
+  "version": "0.8.1",
+  "parameterization": {
+    "name": "cloudflare",
+    "version": "5.1.0",
+    "value": "eyJyZW1vdGUiOnsidXJsIjoicmVnaXN0cnkub3BlbnRvZnUub3JnL2Nsb3VkZmxhcmUvY2xvdWRmbGFyZSIsInZlcnNpb24iOiI1LjEuMCJ9fQ=="
+  }
+}
